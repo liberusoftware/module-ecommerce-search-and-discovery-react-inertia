@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-search-and-discovery-react-inertia",
+  "capabilityKey": "planned:ecommerce:search-and-discovery",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-ecommerce-search-and-discovery-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/ecommerce/nextjs/search-and-discovery.md",
+  "presentationPlan": "projects/ecommerce/react/search-and-discovery.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
